@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 138.3 68" style="enable-background:new 0 0 138.3 68;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:0.25;stroke-miterlimit:10;}
+	.st1{clip-path:url(#SVGID_00000090262769198108521170000009080703129076038841_);}
+	.st2{clip-path:url(#SVGID_00000129195397396674013290000013026306049911698875_);enable-background:new    ;}
+	.st3{clip-path:url(#SVGID_00000055669011534327027100000015163764273328417440_);}
+	.st4{clip-path:url(#SVGID_00000067194179635121501910000015414628697568966068_);}
+	.st5{clip-path:url(#SVGID_00000146465309236926914380000005455214003162229687_);}
+</style>
+<g>
+	
+		<image style="overflow:visible;" width="1203" height="1078" id="Layer_0_4_" xlink:href="2EA9068F3BA2D48A.png"  transform="matrix(5.473712e-02 0 0 5.287547e-02 7.3963 7.3431)">
+	</image>
+	<g>
+		<circle class="st0" cx="35.8" cy="43.5" r="3.1"/>
+		<g>
+			<g>
+				<defs>
+					<rect id="SVGID_1_" x="79.2" y="10.7" width="52.2" height="52.4"/>
+				</defs>
+				<clipPath id="SVGID_00000094594797076248400700000016300273071650587807_">
+					<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+				</clipPath>
+				<g style="clip-path:url(#SVGID_00000094594797076248400700000016300273071650587807_);">
+					<defs>
+						<rect id="SVGID_00000092457670283184022920000012017338833291526814_" x="79.2" y="10.7" width="52.2" height="52.4"/>
+					</defs>
+					<clipPath id="SVGID_00000031169872253968007360000015493592205815173021_">
+						<use xlink:href="#SVGID_00000092457670283184022920000012017338833291526814_"  style="overflow:visible;"/>
+					</clipPath>
+					<g style="clip-path:url(#SVGID_00000031169872253968007360000015493592205815173021_);enable-background:new    ;">
+						<g>
+							<defs>
+								<rect id="SVGID_00000107570181445173952250000017417693141944008344_" x="80.7" y="12.1" width="49.5" height="49.5"/>
+							</defs>
+							<clipPath id="SVGID_00000093886338066799780120000004685391505509560712_">
+								<use xlink:href="#SVGID_00000107570181445173952250000017417693141944008344_"  style="overflow:visible;"/>
+							</clipPath>
+							<g style="clip-path:url(#SVGID_00000093886338066799780120000004685391505509560712_);">
+								<defs>
+									<path id="SVGID_00000008865897185771284150000011746873476641383594_" d="M80.8,36.9c0,13.6,11,24.6,24.6,24.6
+										c13.6,0,24.6-11,24.6-24.6c0-13.6-11-24.6-24.6-24.6C91.8,12.3,80.8,23.3,80.8,36.9"/>
+								</defs>
+								<clipPath id="SVGID_00000102506347206689355740000000469192493807683494_">
+									<use xlink:href="#SVGID_00000008865897185771284150000011746873476641383594_"  style="overflow:visible;"/>
+								</clipPath>
+								<g style="clip-path:url(#SVGID_00000102506347206689355740000000469192493807683494_);">
+									<defs>
+										<rect id="SVGID_00000075877999315087935030000003814864635372376763_" x="79.2" y="10.6" width="52.4" height="52.5"/>
+									</defs>
+									<clipPath id="SVGID_00000137854875092190140390000017419195118277189558_">
+										<use xlink:href="#SVGID_00000075877999315087935030000003814864635372376763_"  style="overflow:visible;"/>
+									</clipPath>
+									<g style="clip-path:url(#SVGID_00000137854875092190140390000017419195118277189558_);">
+										<defs>
+											<rect id="SVGID_00000029004913789783541450000018202133680566046897_" x="79.2" y="10.7" width="52.2" height="52.4"/>
+										</defs>
+										<clipPath id="SVGID_00000020400417943733001640000011192564388571899835_">
+											<use xlink:href="#SVGID_00000029004913789783541450000018202133680566046897_"  style="overflow:visible;"/>
+										</clipPath>
+										<g style="clip-path:url(#SVGID_00000020400417943733001640000011192564388571899835_);">
+											
+												<image style="overflow:visible;" width="310" height="311" xlink:href="2EA9068F3BA2D48D.png"  transform="matrix(0.1685 0 0 0.1685 79.1903 10.7166)">
+											</image>
+										</g>
+									</g>
+								</g>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+			<circle class="st0" cx="105.6" cy="36.8" r="24.6"/>
+		</g>
+		<line class="st0" x1="35.4" y1="40.6" x2="97.2" y2="13.4"/>
+		<line class="st0" x1="35" y1="46.6" x2="102.9" y2="61.5"/>
+	</g>
+</g>
+</svg>
